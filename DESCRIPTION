@@ -1,0 +1,10 @@
+Package: myfirstpackage
+Title: An implementation of the ordered multinomial regression with model selection (MN-MS)
+Version: 0.1
+Authors@R: person("Denis", "Valle", email = "drvalle@ufl.edu", role = c("aut", "cre"))
+Description: This packages implements the ordered multinomial regression with model selection (MN-MS) described in Valle et al XXX. It requires users to 	run, swim and dive and therefore it does
+Depends: R (>= 3.5.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
